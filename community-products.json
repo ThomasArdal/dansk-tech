@@ -68,6 +68,16 @@
     ]
   },
   {
+    "name": "Webhook.site",
+    "url": "https://webhook.site",
+    "description": "Hjælper apps til at snakke sammen og bygge workflows",
+    "alternatives": [
+      "Zapier",
+      "N8n",
+      "Pipedream",
+      "Requestbin"
+    ]
+      },
     "name": "Weply",
     "url": "https://www.weply.chat/da",
     "description": "Weply er en 24/7 lead genererende live chat løsning.",
