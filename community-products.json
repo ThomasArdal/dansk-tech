@@ -97,5 +97,15 @@
       "Tawk.to",
       "Chatbase"
     ]
+  },
+  {
+   "name": "SMTP.dk",
+    "url": "https://smtp.dk/",
+    "description": "Sikker levering af transaktions emails",
+    "alternatives": [
+      "Mailgun",
+      "Sendgrid",
+      "Amazon SES"
+    ]
   }
 ]
