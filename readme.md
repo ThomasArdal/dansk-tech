@@ -32,9 +32,9 @@ Initiativet er startet af en gruppe danske iværksættere, chefer og investorer,
 
 Vi er glade for bidrag! 
 
-**Vigtigt:** Som ekstern bidragyder skal du kun tilføje produkter til listen **"Software fra eksterne bidragydere"**, som vises på siden. Dette gøres ved at redigere filen `community-products.json`.
+**Vigtigt:** Du kan tilføje produkter til den samlede liste ved at redigere filen `products.json`. Produkter i denne fil vises automatisk i den alfabetisk sorterede liste på siden.
 
-Du skal **ikke** redigere `index.php` eller tilføje billeder - det håndteres internt af projektet.
+Du skal **ikke** redigere `original-products.json` (dette fil markerer de oprindelige produkter) eller `index.php` - det håndteres internt af projektet.
 
 ### Tilføj et produkt til listen
 
@@ -53,9 +53,9 @@ Følg disse trin for at tilføje et dansk tech-produkt:
    git checkout -b tilfoej-produkt-navn
    ```
 
-4. **Rediger `community-products.json`**:
+4. **Rediger `products.json`**:
    - Åbn filen i din editor
-   - Tilføj dit produkt til arrayet (efter de eksisterende produkter)
+   - Tilføj dit produkt til arrayet (produkterne er alfabetisk sorteret, men du kan tilføje det hvor du vil - vi sorterer automatisk)
    - Følg denne struktur:
    ```json
    {
@@ -65,13 +65,14 @@ Følg disse trin for at tilføje et dansk tech-produkt:
      "alternatives": ["Internationalt Produkt 1", "Internationalt Produkt 2", "Internationalt Produkt 3"]
    }
    ```
-   - **Vigtigt:** `alternatives` skal være en array (med firkantede parenteser) med op til 3 internationale produkter
+   - **Vigtigt:** `alternatives` skal være en array (med firkantede parenteser) med internationale produkter, som dit danske produkt er alternativ til
+   - **Valgfri:** `image` felt kan inkluderes med stien til et billede (f.eks. "images/ditprodukt.png"), men hvis det ikke inkluderes, bruges automatisk favicon fra produktets URL
    - Sørg for at JSON filen er gyldig (brug en JSON validator hvis du er i tvivl)
    - Husk komma efter hvert produkt (undtagen det sidste)
 
 5. **Commit og push**:
    ```bash
-   git add community-products.json
+   git add products.json
    git commit -m "Tilføj [Produktnavn]"
    git push origin tilfoej-produkt-navn
    ```
@@ -92,7 +93,9 @@ Følg disse trin for at tilføje et dansk tech-produkt:
 }
 ```
 
-**Vigtigt:** Produkter tilføjet via `community-products.json` vises automatisk i sektionen "Software fra eksterne bidragydere" på siden.
+**Vigtigt:** 
+- Produkter tilføjet via `products.json` vises automatisk i den alfabetisk sorterede liste på siden
+- Du må **ikke** redigere `original-products.json` - denne fil markerer de oprindelige produkter og må kun ændres af projektets maintainers
 
 ---
 
@@ -113,12 +116,13 @@ For at et produkt kan inkluderes, skal det opfylde følgende:
 
 ### Produktinformation
 
-Når du tilføjer et produkt til `community-products.json`, skal du inkludere:
+Når du tilføjer et produkt til `products.json`, skal du inkludere:
 
 - **name**: Produktets fulde navn (inkl. domæne, f.eks. "Alunta.com")
 - **url**: URL til produktets hjemmeside
 - **description**: Kort beskrivelse af hvad produktet gør (1-2 sætninger)
-- **alternatives**: Array med op til 3 internationale produkter, som det danske produkt er alternativ til
+- **alternatives**: Array med internationale produkter, som det danske produkt er alternativ til (f.eks. ["Stripe", "Paddle", "Recurly"])
+- **image** (valgfri): Sti til produktbillede (f.eks. "images/ditprodukt.png"). Hvis ikke inkluderet, bruges automatisk favicon fra produktets URL
 
 ---
 
@@ -126,7 +130,10 @@ Når du tilføjer et produkt til `community-products.json`, skal du inkludere:
 
 Som bidragyder skal du kun redigere én fil:
 
-- **`community-products.json`** - Tilføj dit produkt her. Produkter i denne fil vises automatisk i sektionen "Software fra eksterne bidragydere" på siden.
+- **`products.json`** - Tilføj dit produkt her. Produkter i denne fil vises automatisk i den alfabetisk sorterede liste på siden.
+
+**Må ikke redigeres:**
+- **`original-products.json`** - Marker de oprindelige produkter. Kun projektets maintainers må ændre denne fil.
 
 ---
 

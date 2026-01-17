@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Adamatics Platform (AdaLab)",
+    "url": "https://adamatics.com/platform/",
+    "description": "En dansk platform til data science, analytics og AI, der samler notebooks, dataadgang og deployment i ét kontrolleret miljø indenfor virksomheders egen netværk og kontrol. Kan deployes hos alle cloud providers der understøtter Kubernetes, såsom Scaleway, Upcloud, samt on-prem til kritisk infrastruktur.",
+    "alternatives": ["Posit", "PowerBI", "Sagemaker"]
+  },
+  {
+    "name": "Alunta.com",
+    "url": "https://alunta.com",
+    "description": "Abonnementer, betalinger og fakturering",
+    "alternatives": ["Stripe", "Paddle", "Recurly"],
+    "image": "images/alunta.png"
+  },
+  {
+    "name": "Campaign Builder",
+    "url": "https://www.campaignbuilder.io/",
+    "description": "All-in-one platform til at bygge, lancere og administrere kampagner på tværs af kanaler med catalog ads, HTML5 ads, popups, forms, workflows og SMS marketing",
+    "alternatives": ["Marpipe", "Kitchn", "Bannerwise"]
+  },
+  {
+    "name": "Clerk.io",
+    "url": "https://clerk.io",
+    "description": "Personalisering og anbefalinger",
+    "alternatives": ["Dynamic Yield", "Klevu", "Algolia"],
+    "image": "images/clerk.png"
+  },
+  {
+    "name": "dataandmore.com",
+    "url": "https://dataandmore.com/",
+    "description": "Identifikation og sletning af GDPR og sikkerhedsinformation til compliance og risiko i ustrukturerede data. ",
+    "alternatives": ["Miscrosoft Purview", "BigID", "Varonis"]
+  },
+  {
+    "name": "Dinero.dk",
+    "url": "https://dinero.dk",
+    "description": "Regnskab og bogholderi",
+    "alternatives": ["Xero", "QuickBooks", "Sage"],
+    "image": "images/dinero.png"
+  },
+  {
+    "name": "Dreamdata.io",
+    "url": "https://dreamdata.io",
+    "description": "B2B revenue attribution",
+    "alternatives": ["Bizible", "Attribution", "Ruler Analytics"],
+    "image": "images/dreamdata.png"
+  },
+  {
+    "name": "E-conomic.dk",
+    "url": "https://e-conomic.dk",
+    "description": "Regnskab og bogholderi",
+    "alternatives": ["Xero", "QuickBooks", "Sage"],
+    "image": "images/e-conomic.png"
+  },
+  {
+    "name": "Fenerum.com",
+    "url": "https://fenerum.com",
+    "description": "SaaS finances",
+    "alternatives": ["Yonium", "Chargebee", "Upodi"],
+    "image": "images/fenerum.png"
+  },
+  {
+    "name": "fmcgProducts PIM",
+    "url": "https://www.fmcgsolutions.dk",
+    "description": "PIM-system til stamdata med syndikering til GS1, Tradesolution EPD, Dabas og Matinfo samt andre systemer internt og eksternt",
+    "alternatives": ["GS1", "Syndigo", "Inriver"]
+  },
+  {
+    "name": "GrowPanel.io",
+    "url": "https://growpanel.io",
+    "description": "Subscription analytics platform",
+    "alternatives": ["ChartMogul", "Baremetrics", "ProfitWell"],
+    "image": "images/growpanel.png"
+  },
+  {
+    "name": "Herodesk.io",
+    "url": "https://herodesk.io",
+    "description": "Customer support og helpdesk",
+    "alternatives": ["Zendesk", "Intercom", "Freshdesk"],
+    "image": "images/herodesk.png"
+  },
+  {
+    "name": "Holdsport.dk",
+    "url": "https://holdsport.dk",
+    "description": "Software til kontingentopkrævning, kommunikation og medlemsadministration online.",
+    "alternatives": ["Spond", "Clubdesk"]
+  },
+  {
+    "name": "Mercura CPQ",
+    "url": "https://mercura.io",
+    "description": "Configure-Price-Quote-platform til konfiguration, prisberegning og tilbud på komplekse produkter.",
+    "alternatives": ["Tacton", "Salesforce CPQ", "Experlogix"]
+  },
+  {
+    "name": "Morningscore.io",
+    "url": "https://morningscore.io",
+    "description": "SEO + GEO tracking",
+    "alternatives": ["Ahrefs", "SEMrush", "Moz"],
+    "image": "images/morningscore.png"
+  },
+  {
+    "name": "NextSign.dk",
+    "url": "https://www.nextsign.dk/",
+    "description": "Digital underskriftsløsning for virksomheder og organisationer",
+    "alternatives": ["DocuSign", "Scrive"]
+  },
+  {
+    "name": "NordicScreen",
+    "url": "https://nordicscreen.com",
+    "description": "Digital signage-platform til styring af skærme og indhold med cloud-baseret CMS. Bruges til planlægning, afspilning og distribution af visuelt content på tværs af lokationer.",
+    "alternatives": ["SignageLive", "Appspace", "Screencloud"]
+  },
+  {
+    "name": "PageVitals.com",
+    "url": "https://pagevitals.com",
+    "description": "Performance monitoring",
+    "alternatives": ["New Relic", "Datadog", "Dynatrace"],
+    "image": "images/pagevitals.png"
+  },
+  {
+    "name": "PingPuffin.com",
+    "url": "https://pingpuffin.com",
+    "description": "Uptime monitoring og alerts",
+    "alternatives": ["Pingdom", "UptimeRobot", "StatusCake", "DownDetector"],
+    "image": "images/pingpuffin.png"
+  },
+  {
+    "name": "Plecto.com",
+    "url": "https://plecto.com",
+    "description": "Performance management og dashboards",
+    "alternatives": ["Tableau", "Power BI", "Klipfolio"],
+    "image": "images/plecto.png"
+  },
+  {
+    "name": "SEO.ai",
+    "url": "https://seo.ai",
+    "description": "Automatisering af indholdsproduktion",
+    "alternatives": ["Jasper", "Copy.ai", "Writesonic"],
+    "image": "images/seoai.jpg"
+  },
+  {
+    "name": "Sleeknote.com",
+    "url": "https://sleeknote.com",
+    "description": "Email marketing og popups",
+    "alternatives": ["Mailchimp", "Klaviyo", "ConvertKit"],
+    "image": "images/sleeknote.png"
+  },
+  {
+    "name": "SMTP.dk",
+    "url": "https://smtp.dk/",
+    "description": "Sikker levering af transaktions emails",
+    "alternatives": ["Mailgun", "Sendgrid", "Amazon SES"]
+  },
+  {
+    "name": "Timelog.com",
+    "url": "https://timelog.com",
+    "description": "Tidsregistrering, ressourcestyring og fakturering",
+    "alternatives": ["Toggl", "Harvest", "Clockify"],
+    "image": "images/timelog.png"
+  },
+  {
+    "name": "Ubivox.dk",
+    "url": "https://ubivox.dk/",
+    "description": "Send nyhedsbreve nemt og sikkert",
+    "alternatives": ["MailChimp", "Campaign Monitor", "Klaviyo"]
+  },
+  {
+    "name": "Updatemate.ai",
+    "url": "https://updatemate.ai",
+    "description": "Automatisering og integrationer",
+    "alternatives": ["Zapier", "Make", "n8n"],
+    "image": "images/updatemate.jpg"
+  },
+  {
+    "name": "WebContent",
+    "url": "https://webcontent.app",
+    "description": "WebContent er en platform til at søge, skabe, og udføre alt indenfor UGC ads.",
+    "alternatives": ["Influee", "Billo", "Insense"]
+  },
+  {
+    "name": "Webhook.site",
+    "url": "https://webhook.site",
+    "description": "Hjælper apps til at snakke sammen og bygge workflows",
+    "alternatives": ["Zapier", "N8n", "Pipedream", "Requestbin"]
+  },
+  {
+    "name": "Weply",
+    "url": "https://www.weply.chat/da",
+    "description": "Weply er en 24/7 lead genererende live chat løsning.",
+    "alternatives": ["Intercom", "Tawk.to", "Chatbase"]
+  },
+  {
+    "name": "Workfeed",
+    "url": "https://workfeed.io",
+    "description": "Arbejdstidsstyring og HR-system til planlægning, tidsregistrering og medarbejderadministration",
+    "alternatives": ["Deputy", "Homebase", "HROne"]
+  },
+  {
+    "name": "Ziik",
+    "url": "https://ziik.dk",
+    "description": "Ziik nytænker intranettet, med en all-in-one kommunikations- og informationdelingsplatform, der sikrer bedre engagement for medarbejdere",
+    "alternatives": ["Sharepoint"]
+  }
+]

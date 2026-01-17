@@ -222,350 +222,58 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-3xl text-center">
         <h2 class="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl dark:text-white">Tech fra 🇩🇰</h2>
-        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
-          Her er en oversigt over danske systemer, som du kan bruge i din tech stack:
+        <p class="mt-6 text-base text-gray-600 dark:text-gray-400">
+          Oversigt over danske systemer til din tech stack
         </p>
       </div>
-      <ul role="list" class="mx-auto mt-20 grid max-w-4xl grid-cols-1 gap-x-8 gap-y-20 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-        <li>
-          <a href="https://alunta.com" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-orange-50 via-orange-100/50 to-amber-50 opacity-0 group-hover:opacity-100 dark:from-orange-900/20 dark:via-orange-800/10 dark:to-amber-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/alunta.png" alt="Alunta" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Alunta.com
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Abonnementer, betalinger og fakturering
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Stripe, Paddle og Recurly
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://growpanel.io" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-green-50 via-green-100/50 to-emerald-50 opacity-0 group-hover:opacity-100 dark:from-green-900/20 dark:via-green-800/10 dark:to-emerald-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/growpanel.png" alt="GrowPanel" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              GrowPanel.io
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Subscription analytics platform
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: ChartMogul, Baremetrics og ProfitWell
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://pingpuffin.com" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-pink-50 via-pink-100/50 to-rose-50 opacity-0 group-hover:opacity-100 dark:from-pink-900/20 dark:via-pink-800/10 dark:to-rose-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/pingpuffin.png" alt="PingPuffin" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              PingPuffin.com
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Uptime monitoring og alerts
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Pingdom, UptimeRobot, StatusCake
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://sleeknote.com" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-blue-50 via-blue-100/50 to-purple-50 opacity-0 group-hover:opacity-100 dark:from-blue-900/20 dark:via-blue-800/10 dark:to-purple-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/sleeknote.png" alt="Sleeknote" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Sleeknote.com
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Email marketing og popups
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Mailchimp, Klaviyo, ConvertKit
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://clerk.io" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-purple-50 via-purple-100/50 to-pink-50 opacity-0 group-hover:opacity-100 dark:from-purple-900/20 dark:via-purple-800/10 dark:to-pink-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/clerk.png" alt="Clerk.io" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Clerk.io
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Personalisering og anbefalinger
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Dynamic Yield, Klevu, Algolia
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://pagevitals.com" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-indigo-50 via-indigo-100/50 to-blue-50 opacity-0 group-hover:opacity-100 dark:from-indigo-900/20 dark:via-indigo-800/10 dark:to-blue-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/pagevitals.png" alt="PageVitals" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              PageVitals.com
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Performance monitoring
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: New Relic, Datadog, Dynatrace
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://herodesk.io" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-teal-50 via-teal-100/50 to-cyan-50 opacity-0 group-hover:opacity-100 dark:from-teal-900/20 dark:via-teal-800/10 dark:to-cyan-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/herodesk.png" alt="Herodesk" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Herodesk.io
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Customer support og helpdesk
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Zendesk, Intercom, Freshdesk
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://morningscore.io" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-yellow-50 via-yellow-100/50 to-orange-50 opacity-0 group-hover:opacity-100 dark:from-yellow-900/20 dark:via-yellow-800/10 dark:to-orange-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/morningscore.png" alt="Morningscore" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Morningscore.io
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              SEO + GEO tracking
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Ahrefs, SEMrush, Moz
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://dreamdata.io" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-red-50 via-red-100/50 to-rose-50 opacity-0 group-hover:opacity-100 dark:from-red-900/20 dark:via-red-800/10 dark:to-rose-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/dreamdata.png" alt="DreamData" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Dreamdata.io
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              B2B revenue attribution
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Bizible, Attribution, Ruler Analytics
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://timelog.com" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-slate-50 via-slate-100/50 to-gray-50 opacity-0 group-hover:opacity-100 dark:from-slate-900/20 dark:via-slate-800/10 dark:to-gray-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/timelog.png" alt="Timelog" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Timelog.com
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Tidsregistrering, ressourcestyring og fakturering.
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Toggl, Harvest, Clockify
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://fenerum.com" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-emerald-50 via-emerald-100/50 to-green-50 opacity-0 group-hover:opacity-100 dark:from-emerald-900/20 dark:via-emerald-800/10 dark:to-green-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/fenerum.png" alt="Fenerum" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Fenerum.com
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              SaaS finances
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Yonium, Chargebee og Upodi
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://e-conomic.dk" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-blue-50 via-blue-100/50 to-cyan-50 opacity-0 group-hover:opacity-100 dark:from-blue-900/20 dark:via-blue-800/10 dark:to-cyan-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/e-conomic.png" alt="E-conomic" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              E-conomic.dk
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Regnskab og bogholderi
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Xero, QuickBooks, Sage
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://dinero.dk" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-amber-50 via-amber-100/50 to-yellow-50 opacity-0 group-hover:opacity-100 dark:from-amber-900/20 dark:via-amber-800/10 dark:to-yellow-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/dinero.png" alt="Dinero" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Dinero.dk
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Regnskab og bogholderi
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Xero, QuickBooks, Sage
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://plecto.com" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-fuchsia-50 via-fuchsia-100/50 to-pink-50 opacity-0 group-hover:opacity-100 dark:from-fuchsia-900/20 dark:via-fuchsia-800/10 dark:to-pink-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/plecto.png" alt="Plecto" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Plecto.com
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Performance management og dashboards
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Tableau, Power BI, Klipfolio
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://updatemate.ai" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-indigo-50 via-indigo-100/50 to-violet-50 opacity-0 group-hover:opacity-100 dark:from-indigo-900/20 dark:via-indigo-800/10 dark:to-violet-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/updatemate.jpg" alt="UpdateMate" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              Updatemate.ai
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Automatisering og integrationer
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Zapier, Make, n8n
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://seo.ai" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="relative">
-              <div class="absolute -inset-4 rounded-3xl bg-gradient-to-br from-cyan-50 via-cyan-100/50 to-teal-50 opacity-0 group-hover:opacity-100 dark:from-cyan-900/20 dark:via-cyan-800/10 dark:to-teal-900/20 transition-opacity duration-300 blur-xl"></div>
-              <div class="relative rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300">
-                <img src="images/seoai.jpg" alt="SEO.ai" width="400" height="400" loading="lazy" class="aspect-square w-full rounded-2xl object-cover transition-all duration-300" />
-              </div>
-            </div>
-            <h3 class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-              SEO.ai
-            </h3>
-            <p class="text-base/7 text-gray-600 dark:text-gray-400">
-              Automatisering af indholdsproduktion
-            </p>
-            <p class="mt-2 text-xs text-gray-400 dark:text-gray-600">
-              Alternativ til: Jasper, Copy.ai, Writesonic
-            </p>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="mx-auto max-w-7xl px-6 lg:px-8">
-    <div class="border-t border-gray-300 dark:border-white/15"></div>
-  </div>
-
-  <?php
-  // Load community products from JSON file
-  $communityProducts = [];
-  $jsonFile = __DIR__ . '/community-products.json';
-  
-  if (file_exists($jsonFile)) {
-    $jsonContent = file_get_contents($jsonFile);
-    $decoded = json_decode($jsonContent, true);
-    
-    if (json_last_error() === JSON_ERROR_NONE && is_array($decoded)) {
-      $communityProducts = $decoded;
-    }
-  }
-  
-  // Only show section if there are products
-  if (!empty($communityProducts)):
-  ?>
-  <div id="eksterne" class="bg-white py-24 sm:py-32 dark:bg-gray-900">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-3xl text-center">
-        <h2 class="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl dark:text-white">Software fra eksterne bidragydere</h2>
-        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
-          Følgende produkter er tilføjet af eksterne bidragydere. Vil du tilføje dit produkt? Send en <a href="#forslag" class="text-gray-900 underline dark:text-white hover:text-gray-700 dark:hover:text-gray-300">pull request til os via GitHub</a>. Vi synes det er den rigtige måde at gøre det, når nu det er en tech-stack vi arbejder med.
-        </p>
+      <div class="mt-8">
+        <div class="max-w-md mx-auto">
+          <input type="text" id="product-search" placeholder="Søg efter international software, dansk software eller kategori..." 
+                 class="w-full px-4 py-3 text-base border border-gray-300 rounded-lg dark:bg-gray-800 dark:border-gray-600 dark:text-white focus:outline-none focus:ring-2 focus:ring-gray-900 dark:focus:ring-white" />
+          <div class="mt-2 flex flex-wrap items-center justify-center gap-2">
+            <span class="text-xs text-gray-500 dark:text-gray-400">Eksempel:</span>
+            <button type="button" class="search-example text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors" data-search="Stripe">Stripe</button>
+            <button type="button" class="search-example text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors" data-search="DownDetector">DownDetector</button>
+            <button type="button" class="search-example text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors" data-search="Mailchimp">Mailchimp</button>
+            <button type="button" class="search-example text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors" data-search="Zendesk">Zendesk</button>
+          </div>
+        </div>
       </div>
-      <ul role="list" class="mx-auto mt-20 grid max-w-4xl grid-cols-1 gap-x-8 gap-y-12 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-        <?php foreach ($communityProducts as $product): 
+      <?php
+      // Load all products from JSON file
+      $products = [];
+      $productsFile = __DIR__ . '/products.json';
+      
+      if (file_exists($productsFile)) {
+        $productsContent = file_get_contents($productsFile);
+        $decoded = json_decode($productsContent, true);
+        
+        if (json_last_error() === JSON_ERROR_NONE && is_array($decoded)) {
+          $products = $decoded;
+        }
+      }
+      
+      // Load original products list
+      $originalProducts = [];
+      $originalFile = __DIR__ . '/original-products.json';
+      
+      if (file_exists($originalFile)) {
+        $originalContent = file_get_contents($originalFile);
+        $decoded = json_decode($originalContent, true);
+        
+        if (json_last_error() === JSON_ERROR_NONE && is_array($decoded)) {
+          $originalProducts = $decoded;
+        }
+      }
+      
+      // Sort products alphabetically by name
+      usort($products, function($a, $b) {
+        return strcasecmp($a['name'], $b['name']);
+      });
+      ?>
+      <div id="products-container">
+        <ul role="list" class="mx-auto mt-10 grid max-w-5xl grid-cols-1 gap-x-6 gap-y-4 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 xl:grid-cols-4">
+        <?php foreach ($products as $index => $product): 
           // Validate required fields
           if (!isset($product['name']) || !isset($product['url']) || !isset($product['description'])) {
             continue;
@@ -575,32 +283,64 @@
           $url = htmlspecialchars($product['url'], ENT_QUOTES, 'UTF-8');
           $description = htmlspecialchars($product['description'], ENT_QUOTES, 'UTF-8');
           $alternatives = isset($product['alternatives']) && is_array($product['alternatives']) 
-            ? array_slice($product['alternatives'], 0, 3) 
+            ? $product['alternatives'] 
             : [];
-          $alternativesText = !empty($alternatives) ? 'Alternativ til: ' . implode(', ', array_map('htmlspecialchars', $alternatives)) : '';
+          $alternativesText = !empty($alternatives) ? implode(', ', array_map('htmlspecialchars', $alternatives)) : '';
+          
+          // Extract domain from URL for favicon
+          $domain = parse_url($url, PHP_URL_HOST);
+          if ($domain) {
+            $domain = str_replace('www.', '', $domain);
+            $faviconUrl = 'https://www.google.com/s2/favicons?domain=' . urlencode($domain) . '&sz=32';
+          } else {
+            $faviconUrl = '';
+          }
+          
+          $isOriginal = in_array($url, $originalProducts);
+          $productDataAttributes = 'data-product data-name="' . htmlspecialchars(strtolower($name), ENT_QUOTES, 'UTF-8') . '" data-description="' . htmlspecialchars(strtolower($description), ENT_QUOTES, 'UTF-8') . '" data-alternatives="' . htmlspecialchars(strtolower(implode(' ', $alternatives)), ENT_QUOTES, 'UTF-8') . '"';
         ?>
-        <li>
-          <a href="<?php echo $url; ?>" target="_blank" rel="noopener noreferrer" class="group block">
-            <div class="rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 shadow-lg shadow-gray-200/50 dark:shadow-gray-900/50 group-hover:shadow-xl group-hover:shadow-gray-300/50 dark:group-hover:shadow-gray-800/50 transition-all duration-300 p-6">
-              <h3 class="text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
-                <?php echo $name; ?>
-              </h3>
-              <p class="mt-3 text-base/7 text-gray-600 dark:text-gray-400">
-                <?php echo $description; ?>
-              </p>
-              <?php if (!empty($alternativesText)): ?>
-              <p class="mt-3 text-xs text-gray-400 dark:text-gray-600">
-                <?php echo $alternativesText; ?>
-              </p>
-              <?php endif; ?>
+        <li <?php echo $productDataAttributes; ?>>
+          <a href="<?php echo $url; ?>" target="_blank" rel="noopener noreferrer" class="group block p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:border-gray-300 dark:hover:border-gray-600 hover:shadow-md transition-all duration-200">
+            <div class="flex items-start gap-3">
+              <div class="flex-shrink-0 mt-0.5 w-8 h-8 rounded bg-gray-200 dark:bg-gray-700 flex items-center justify-center relative overflow-hidden">
+                <?php if ($faviconUrl): ?>
+                <img src="<?php echo $faviconUrl; ?>" alt="<?php echo $name; ?>" width="32" height="32" class="rounded w-full h-full object-contain" onerror="this.style.display='none'; this.parentElement.querySelector('.favicon-fallback').style.display='flex';" />
+                <?php endif; ?>
+                <span class="favicon-fallback text-sm font-bold text-gray-500 dark:text-gray-400" style="<?php echo $faviconUrl ? 'display: none;' : 'display: flex;'; ?>"><?php echo strtoupper(substr($name, 0, 1)); ?></span>
+              </div>
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center gap-2 mb-1 flex-wrap">
+                  <h3 class="text-base font-semibold text-gray-900 dark:text-white group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors truncate">
+                    <?php echo $name; ?>
+                  </h3>
+                  <?php if ($isOriginal): ?>
+                  <span class="inline-flex items-center rounded-full bg-blue-600 px-2 py-0.5 text-xs font-medium text-white flex-shrink-0">Original</span>
+                  <?php endif; ?>
+                </div>
+                <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-2 mb-2">
+                  <?php echo $description; ?>
+                </p>
+                <?php if (!empty($alternativesText)): ?>
+                <p class="text-xs text-gray-500 dark:text-gray-500">
+                  <span class="font-medium">Alternativ til:</span> <span class="text-gray-400 dark:text-gray-500"><?php echo htmlspecialchars(strlen($alternativesText) > 60 ? substr($alternativesText, 0, 60) . '...' : $alternativesText); ?></span>
+                </p>
+                <?php endif; ?>
+              </div>
             </div>
           </a>
         </li>
         <?php endforeach; ?>
       </ul>
+      <div id="no-results" class="mt-10 text-center text-gray-500 dark:text-gray-400 hidden">
+        <p>Ingen produkter fundet. Prøv at søge efter et andet navn eller international software.</p>
+      </div>
+      </div>
     </div>
   </div>
-  <?php endif; ?>
+
+  <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="border-t border-gray-300 dark:border-white/15"></div>
+  </div>
 
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="border-t border-gray-300 dark:border-white/15"></div>
@@ -609,7 +349,7 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-3xl text-center">
         <h2 class="text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl dark:text-white">Tusind tak til dem der støttede projektet helt fra start</h2>
-        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">Vi har talt med bekendte i tech-miljøet og fået dem med til også at lægge navn til anbefalingerne. Disse personer støtter initiativet og bygger og investerer selv i de danske systemer.</p>
+        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">Vi har talt med bekendte i tech-miljøet og fået dem med til også at lægge navn til anbefalingerne. Disse personer støtter initiativet og bygger og investerer selv i de danske systemer. Alle på listen her har fået lov at udnævne et stykke software til listen, som så har fået <span class="inline-flex items-center rounded-full bg-blue-600 px-2 py-0.5 text-xs font-medium text-white">Original</span> label'en i oversigten over produkter.</p>
       </div>
       <ul role="list" class="mx-auto mt-20 grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center sm:grid-cols-3 md:grid-cols-4 lg:mx-0 lg:max-w-none lg:grid-cols-7">
         <li>
@@ -724,7 +464,7 @@
       <div class="mx-auto max-w-2xl text-center">
         <h2 class="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl dark:text-white">Send dit forslag via <a href="https://github.com/Boligforeningsweb/dansk-tech" class="underline">GitHub</a></h2>
         <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
-          Er du selv udvikler og kender lige præcis dét stykke software fra Danmark som mangler på listen? Så kan du sende os en pull request og foreslå til listen af produkter fra eksterne bidragydere. Herunder kan du se dem der har bidraget indtil videre.
+          Er du selv udvikler og kender lige præcis dét stykke software fra Danmark som mangler på listen? Så kan du sende os en pull request og foreslå til listen af produkter fra eksterne bidragydere. Herunder kan du se dem der har bidraget indtil videre. Det er hhv. <a href="https://github.com/BoMoellerDK" class="underline">Bo Møller</a> og <a href="https://github.com/jonasdev" class="underline">Jonas Kaas Kristensen</a> der styrer repo'et.
         </p>
         <div id="contributors" class="mt-10 flex flex-wrap items-center justify-center gap-x-4 gap-y-2">
         </div>
@@ -769,6 +509,68 @@
     </div>
   </footer>
   <script type="text/javascript">
+    // Product search functionality
+    (function() {
+      const searchInput = document.getElementById('product-search');
+      const productItems = document.querySelectorAll('[data-product]');
+      const productsList = document.querySelector('[role="list"]');
+      const noResults = document.getElementById('no-results');
+      
+      if (!searchInput || !productItems.length) return;
+      
+      // Function to perform search
+      function performSearch(query) {
+        const searchQuery = query.toLowerCase().trim();
+        let visibleCount = 0;
+        
+        productItems.forEach(function(item) {
+          const name = item.getAttribute('data-name') || '';
+          const description = item.getAttribute('data-description') || '';
+          const alternatives = item.getAttribute('data-alternatives') || '';
+          
+          const matches = !searchQuery || 
+            name.includes(searchQuery) || 
+            description.includes(searchQuery) || 
+            alternatives.includes(searchQuery);
+          
+          if (matches) {
+            item.style.display = '';
+            visibleCount++;
+          } else {
+            item.style.display = 'none';
+          }
+        });
+        
+        // Show/hide no results message
+        if (searchQuery && visibleCount === 0) {
+          noResults.classList.remove('hidden');
+          productsList.classList.add('hidden');
+        } else {
+          noResults.classList.add('hidden');
+          productsList.classList.remove('hidden');
+        }
+      }
+      
+      // Search input handler
+      searchInput.addEventListener('input', function(e) {
+        performSearch(e.target.value);
+      });
+      
+      // Clickable search examples
+      const searchExamples = document.querySelectorAll('.search-example');
+      searchExamples.forEach(function(button) {
+        button.addEventListener('click', function() {
+          const searchTerm = this.getAttribute('data-search');
+          searchInput.value = searchTerm;
+          searchInput.focus();
+          performSearch(searchTerm);
+          // Scroll to products
+          document.getElementById('produkter').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      });
+    })();
+    
+    // GitHub contributors
     (async () => {
       const response = await fetch('https://api.github.com/repos/Boligforeningsweb/dansk-tech/contributors');
       const contributors = await response.json();
