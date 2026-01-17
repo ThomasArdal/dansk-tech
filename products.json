@@ -91,6 +91,13 @@
     "description": "Aldersverifikation og identitetsbekræftelse",
     "alternatives": ["Veriff", "Yoti", "AgeChecker.Net"]
   },
+    {
+    "name": "Kallax.io",
+    "url": "https://kallax.io",
+    "description": "Brætspilsbegivenheder og organisering til nørder og caféer.",
+    "alternatives": ["BoardGameGeek", "Meetup", "GeekGroup"],
+    "image": "images/kallax-io.png"
+  },
   {
     "name": "Holdsport.dk",
     "url": "https://holdsport.dk",
