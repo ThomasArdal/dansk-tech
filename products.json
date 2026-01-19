@@ -225,6 +225,12 @@
     "url": "https://ziik.dk",
     "description": "Ziik nytænker intranettet, med en all-in-one kommunikations- og informationdelingsplatform, der sikrer bedre engagement for medarbejdere",
     "alternatives": ["Sharepoint"]
+  },
+  {
+    "name": "ePay Payment Solutions",
+    "url": "https://epay.dk",
+    "description":"Vi gør det nemt at komme i gang med online betaling - uanset din virksomheds størrelse. Prøv nu og lav din første testbetaling på blot få minutter",
+    "alternatives": ["Stripe", "Adyen", "PayPal", "payoneer"]
   }
   {
   "name": "Uniqkey",
