@@ -149,6 +149,18 @@
       ]
    },
    {
+      "name":"inMobile",
+      "url":"https://www.inmobile.com",
+      "description":"SMS, RCS og E-mail - få dit budskab ud og til de rigtige modtagere",
+      "alternatives":[
+      	 "Twilio",
+      	 "Sinch",
+      	 "Infobip",
+      	 "Vonage",
+      	 "Messente"
+      ]
+   },
+   {
       "name":"Iteras",
       "url":"https://iteras.com",
       "description":"Abonnementsstyringsplatform til fakturering, betalinger og kundeabonnementer med selvbetjeningsportaler og integration til nordiske betalingsudbydere",
