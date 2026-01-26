@@ -455,6 +455,16 @@
       ]
    },
    {
+    "name": "Keen",
+    "url": "https://www.keenpartner.com",
+    "description": "PRM Software til styring og skalering af lead-genererende B2B partnerskaber.",
+    "alternatives": [
+      "PartnerStack",
+      "impact.com",
+      "SalesForce PRM",
+      "Impartner PRM"
+    ]
+  },{
       "name": "elmah.io",
       "url": "https://elmah.io",
       "description": "elmah.io er en dansk cloud-løsning, der automatisk overvåger .NET-applikationer for fejl og logger dem centralt, så udviklere hurtigt kan finde og løse problemer.",
