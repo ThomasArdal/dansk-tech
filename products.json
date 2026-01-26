@@ -453,5 +453,16 @@
          "Meeting Room 365",
          "Envoy"
       ]
+   },
+   {
+      "name": "elmah.io",
+      "url": "https://elmah.io",
+      "description": "elmah.io er en dansk cloud-løsning, der automatisk overvåger .NET-applikationer for fejl og logger dem centralt, så udviklere hurtigt kan finde og løse problemer.",
+      "alternatives": [
+         "Sentry",
+         "Raygun",
+         "Rollbar",
+         "Azure Application Insights"
+      ]
    }
 ]
