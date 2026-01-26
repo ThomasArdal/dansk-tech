@@ -338,7 +338,6 @@
       "description": "Verdens meste udbredte Open Source .NET CMS. Stort økosystem af gratis og betalte extensions. ",
       "alternatives": [
          "Optimizely / EPIserver",
-         "Sitecore",
          "Kentico",
          "Drupal"
       ]
