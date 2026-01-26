@@ -453,5 +453,16 @@
          "Meeting Room 365",
          "Envoy"
       ]
-   }
+   },
+   {
+    "name": "Keen",
+    "url": "https://www.keenpartner.com",
+    "description": "PRM Software til styring og skalering af lead-genererende B2B partnerskaber.",
+    "alternatives": [
+      "PartnerStack",
+      "impact.com",
+      "SalesForce PRM",
+      "Impartner PRM"
+    ]
+  }
 ]
