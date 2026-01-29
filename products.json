@@ -23,6 +23,18 @@
       "image": "images/alunta.png"
    },
    {
+      "name": "Bastio AI Security",
+      "url": "https://www.bastio.com",
+      "description": "Dansk AI-sikkerhedsgateway der beskytter LLM-applikationer med real-time threat detection. Drop-in proxy til OpenAI, Anthropic, Google m.fl. med prompt injection-beskyttelse, automatisk PII-masking, jailbreak-detektion, og fuld observability. Inkluderer også AI agent security og cost optimization via intelligent caching.",
+      "alternatives": [
+         "Lakera",
+         "Lasso Security",
+         "CalypsoAI",
+         "Prompt.security"
+      ],
+      "image": "images/bastio-ai-security.jpg"
+   },
+   {
       "name": "Boligforeningsweb",
       "url": "https://boligforeningsweb.dk",
       "description": "Software til administration af boligforeninger",
