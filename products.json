@@ -577,7 +577,7 @@
    },{
       "name":"Heysender",
       "url":"https://www.heysender.com",
-      "description":"Email API. Tag kontrol over dine transaktionelle emails.",
+      "description":"Email API og SMTP-løsning. Tag kontrol over dine transaktionelle emails.",
       "alternatives":[
          "Mailgun",
          "Postmark",
