@@ -228,6 +228,10 @@
             <div class="group flex items-center justify-center h-12 opacity-90 hover:opacity-100 transition-opacity duration-300">
               <img src="berlingske.png" alt="Berlingske" class="h-full w-auto max-w-[140px] object-contain transition-all duration-300" />
             </div>
+            <!-- Zetland logo -->
+            <div class="group flex items-center justify-center h-12 opacity-90 hover:opacity-100 transition-opacity duration-300">
+              <img src="zetland.png" alt="Zetland" class="h-full w-auto max-w-[40px] object-contain transition-all duration-300" />
+            </div>
           </div>
         </div>
       </div>
@@ -607,7 +611,7 @@
     
     // GitHub contributors
     (async () => {
-      const response = await fetch('https://api.github.com/repos/Boligforeningsweb/dansk-tech/contributors');
+      const response = await fetch('https://api.github.com/repos/Boligforeningsweb/dansk-tech/contributors?per_page=500&page=1');
       const contributors = await response.json();
       const container = document.getElementById('contributors');
 
