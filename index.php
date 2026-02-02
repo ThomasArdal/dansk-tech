@@ -228,6 +228,10 @@
             <div class="group flex items-center justify-center h-12 opacity-90 hover:opacity-100 transition-opacity duration-300">
               <img src="berlingske.png" alt="Berlingske" class="h-full w-auto max-w-[140px] object-contain transition-all duration-300" />
             </div>
+            <!-- Zetland logo -->
+            <div class="group flex items-center justify-center h-12 opacity-90 hover:opacity-100 transition-opacity duration-300">
+              <img src="zetland.png" alt="Zetland" class="h-full w-auto max-w-[140px] object-contain transition-all duration-300" />
+            </div>
           </div>
         </div>
       </div>
@@ -469,7 +473,7 @@
         <li>
           <img src="images/jonas.jpg" alt="Jonas Kaas Kristensen" width="96" height="96" loading="lazy" class="mx-auto size-24 rounded-full object-cover outline-1 -outline-offset-1 outline-black/5 dark:outline-white/10" />
           <h3 class="mt-6 text-base/7 font-semibold tracking-tight text-gray-900 dark:text-white">Jonas Kaas Kristensen</h3>
-          <p class="text-sm/6 text-gray-600 dark:text-gray-400">Freelance-udvikler og administrator på dansktechstack.dk sammen med Bo Møller.</p>
+          <p class="text-sm/6 text-gray-600 dark:text-gray-400"><a target="_blank" href="https://midear.dk">Freelance udvikler</a> og administrator på dansktechstack.dk sammen med Bo Møller.</p>
         </li>
       </ul>
     </div>
@@ -607,7 +611,7 @@
     
     // GitHub contributors
     (async () => {
-      const response = await fetch('https://api.github.com/repos/Boligforeningsweb/dansk-tech/contributors');
+      const response = await fetch('https://api.github.com/repos/Boligforeningsweb/dansk-tech/contributors?per_page=500&page=1');
       const contributors = await response.json();
       const container = document.getElementById('contributors');
 
