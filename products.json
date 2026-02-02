@@ -23,6 +23,19 @@
       "image": "images/alunta.png"
    },
    {
+      "name": "Arrigoo CDP",
+      "url": "https://arrigoo.io",
+      "description": "Europæisk hosted Customer Data Platform til at indsamle, konsolidere og distribuere profildata på tværs af systemer og segmentere på baggrund af adfærd og egenskaber.",
+      "alternatives": [
+         "Microsoft Insight",
+         "Segment",
+         "Bloomreach",
+         "Adobe CDP",
+         "Tealium"
+      ],
+      "image": "images/arrigoo.png"
+   },
+   {
       "name": "Bastio AI Security",
       "url": "https://www.bastio.com",
       "description": "Dansk AI-sikkerhedsgateway der beskytter LLM-applikationer med real-time threat detection. Drop-in proxy til OpenAI, Anthropic, Google m.fl. med prompt injection-beskyttelse, automatisk PII-masking, jailbreak-detektion, og fuld observability. Inkluderer også AI agent security og cost optimization via intelligent caching.",
