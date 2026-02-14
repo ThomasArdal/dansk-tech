@@ -717,5 +717,15 @@
      "url": "https://cvrintel.dk",
      "description": "Virksomhedsdata, AI og leads samlet ét sted",
      "alternatives": ["Bisnode/Dun & Bradstreet"]
+   },
+   {
+     "name": "Zylinc.com",
+     "url": "https://zylinc.com",
+     "description": "Omstillings- og kontaktcenterløsning",
+     "alternatives": [
+         "Puzzel",
+         "Genesis",
+         "Cisco"
+      ]
    }
 ]
