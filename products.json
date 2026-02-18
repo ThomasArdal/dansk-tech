@@ -623,7 +623,8 @@
          "Levels.fyi",
          "PayScale",
          "Salary.com"
-      ]
+      ],
+       "image": "images/loenradar.png"
    },{
       "name":"Heysender",
       "url":"https://www.heysender.com",
